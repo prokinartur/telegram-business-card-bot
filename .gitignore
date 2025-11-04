@@ -1,1 +1,13 @@
+# Секреты
 .env
+
+# Файлы Go
+*.exe
+*.bin
+go.sum
+go.lock
+
+# Папки
+# (Если у тебя есть лишняя папка, например, 'test-project', добавь ее сюда)
+/concert/ 
+/geometry/
